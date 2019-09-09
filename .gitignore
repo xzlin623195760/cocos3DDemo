@@ -2,13 +2,11 @@
 # Fireball Projects
 #/////////////////////////////////////////////////////////////////////////////
 
-/PuzzleMain/library/
-/PuzzleMain/temp/
-/PuzzleMain/local/
-/PuzzleMain/build/
-/PuzzleOpenData/library/
-/PuzzleOpenData/temp/
-/PuzzleOpenData/local/
+./library/
+./temp/
+./local/
+./build/
+
 
 
 #/////////////////////////////////////////////////////////////////////////////
